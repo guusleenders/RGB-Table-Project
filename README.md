@@ -5,8 +5,8 @@ For more information, go to [guusleenders.me/rgbtable](http://guusleenders.me/rg
 
 End Result
 ----------
-Introduction video: [youtu.be/tsbG_MXWmow](http://youtu.be/tsbG_MXWmow)
-More pictures: [flic.kr/s/aHsjL1AEgT](http://flic.kr/s/aHsjL1AEgT)
+- Introduction video: [youtu.be/tsbG_MXWmow](http://youtu.be/tsbG_MXWmow)
+- More pictures: [flic.kr/s/aHsjL1AEgT](http://flic.kr/s/aHsjL1AEgT)
 
 Construction
 ------------
